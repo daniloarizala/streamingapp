@@ -1,0 +1,4 @@
+/* Initial package install in /server */
+
+npm i --save bcryptjs cors dotenv express express-joi-validation joi jsonwebtoken mongoose nodemon socket.io uuid
+
